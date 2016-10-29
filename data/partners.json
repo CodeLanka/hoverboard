@@ -11,20 +11,19 @@
     ]
   },
   {
-    "title": "general-partner",
+    "title": "media-partner",
     "logos": [
-      {
-        "name": "GDG Sri Lanka",
-        "url": "http://gdgsrilanka.org",
-        "logoUrl": "../images/logos/gdg-sri-lanka_logo.svg",
-        "width": 300
-      },
       {
         "name": "LetMeKnow",
         "url": "http://letmeknow.lk",
         "logoUrl": "../images/logos/letmeknow_logo.png",
         "width": 300
-      },
+      }
+    ]
+  },
+  {
+    "title": "event-partner",
+    "logos": [
       {
         "name": "RSVP.lk",
         "url": "http://rsvp.lk",
