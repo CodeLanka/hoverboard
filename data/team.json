@@ -3,28 +3,6 @@
     "title": "Core Team",
     "members": [
       {
-        "name": "Tharaka Devinda",
-        "photoUrl": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/13266113_10208356116393842_2175530521734496140_n.jpg?oh=b7d03a365c17853002e721737dd6cebb&oe=58D233BD",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+TharakaDevinda",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/tdevinda",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/tdevinda",
-            "name": "Twitter"
-          }
-        ],
-        "title": "DevFest Organizer"
-      },
-      {
         "name": "Pamuditha Imalka",
         "photoUrl": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/969141_409507712501270_946571863_n.jpg?oh=d90d5bf4a1010731cea65a1170eab6a6&oe=58D4F39A",
         "socials": [
@@ -83,6 +61,28 @@
             "icon": "facebook",
             "link": "https://www.facebook.com/agentmilindu",
             "name": "Facebook"
+          }
+        ],
+        "title": "DevFest Organizer"
+      },
+	  {
+        "name": "Tharaka Devinda",
+        "photoUrl": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/13266113_10208356116393842_2175530521734496140_n.jpg?oh=b7d03a365c17853002e721737dd6cebb&oe=58D233BD",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+TharakaDevinda",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/tdevinda",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/tdevinda",
+            "name": "Twitter"
           }
         ],
         "title": "DevFest Organizer"
