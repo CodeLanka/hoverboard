@@ -125,7 +125,7 @@
     ]
   },
   "tickets": {
-    "url": "http://rsvp.lk/gdgsrilanka/devfestsl2016",
+    "url": "http://rsvp.lk/gdgsrilanka/devfestsl2016/codelabs-registration",
     "elements": [
       {
         "name": "student-ticket",
@@ -175,7 +175,7 @@
       "caption": "segments"
     }
   ],
-  "hashtag": "devfestsl2016",
+  "hashtag": "devfestlk16",
   "social": [
     {
       "name": "twitter",

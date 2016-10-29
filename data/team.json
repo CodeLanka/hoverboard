@@ -3,6 +3,18 @@
     "title": "Core Team",
     "members": [
       {
+        "name": "Udaya Gunathilake",
+        "photoUrl": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/10174978_10208496763515211_148233193522874536_n.jpg?oh=b5d04075c9f51bb1e5fcdba1b10096c5&oe=589B3126",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/umgunathilaka",
+            "name": "Facebook"
+          }
+        ],
+        "title": "DevFest Organizer"
+      },
+      {
         "name": "Pamuditha Imalka",
         "photoUrl": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/969141_409507712501270_946571863_n.jpg?oh=d90d5bf4a1010731cea65a1170eab6a6&oe=58D4F39A",
         "socials": [
@@ -19,18 +31,7 @@
         ],
         "title": "DevFest Organizer"
       },
-      {
-        "name": "Udaya Gunathilake",
-        "photoUrl": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/10174978_10208496763515211_148233193522874536_n.jpg?oh=b5d04075c9f51bb1e5fcdba1b10096c5&oe=589B3126",
-        "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/umgunathilaka",
-            "name": "Facebook"
-          }
-        ],
-        "title": "DevFest Organizer"
-      },
+      
       {
         "name": "Raveen Harith",
         "photoUrl": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/12243056_10206988761092970_8253388931726213198_n.jpg?oh=5380b02f7407a88456e2cdeba3042d44&oe=589967BC",
