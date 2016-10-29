@@ -64,8 +64,9 @@
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
-      "NLP",
-      "TTS"
+      "TTS",
+      "NLP"
+      
     ]
     
   },
