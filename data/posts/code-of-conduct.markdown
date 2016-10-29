@@ -1,8 +1,15 @@
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__Please read carefully__
 
 <br/>
+<ul>
+<li>Make sure you attend with your valid ticket and retain the pass/ticket that is provided by the organizers, at all times till the end of the event.</li>
+<li>CodeLabs are for a selected number of people, and they will only be allowed to the session. No general ticketholders will be allowed for codelabs</li>
+<li>Only <b>ONE</b> person will be allowed for one ticket. You cannot bring anyone to tag along. If you don't have a ticket, you will be asked to leave.</li>
+<li>No food or drinks allowed in the auditorium for attendees, and Water is a drink.!</li>
+<li>You need to keep all areas of the premises as clean as possible</li>
+<li>Any instance which a participant found breaking these rules, being a nuisance to others/staff/GDG or behaving inappropriately; will be asked to leave the premises immediately</li>
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+</ul>
 
 If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
 
@@ -10,4 +17,6 @@ If someone is bothering you, please tell GDG Organizers immediately and they wil
 
 #### Contacts:
 
-- Oleh Zasadnyy, +38 093 48 66 460, [oleh.zasadnyy@gdg.org.ua](mailto:oleh.zasadnyy@gdg.org.ua)
+- Tharaka Devinda ( tdevinda @ gmail . com )
+- Udaya Gunathilake (ufirstintermedia @ gmail . com )
+- Milindu Sanoj (agentmilnidu @ gmail . com )
