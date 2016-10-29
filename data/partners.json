@@ -1,12 +1,12 @@
 [
   {
-    "title": "Organizers",
+    "title": "template-creator",
     "logos": [
       {
-        "name": "GDG Sri Lanka",
-        "url": "https://plus.google.com/+GDGSriLankaChapter",
-        "logoUrl": "../images/logos/gdg-sri-lanka_logo.svg",
-        "width": 170
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/logos/google.svg",
+        "width": 300
       }
     ]
   },
@@ -14,59 +14,22 @@
     "title": "general-partner",
     "logos": [
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "name": "GDG Sri Lanka",
+        "url": "http://gdgsrilanka.org",
+        "logoUrl": "../images/logos/gdg-sri-lanka_logo.svg",
+        "width": 300
       },
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
+        "name": "LetMeKnow",
+        "url": "http://letmeknow.lk",
+        "logoUrl": "../images/logos/letmeknow_logo.png",
+        "width": 300
       },
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "name": "RSVP.lk",
+        "url": "http://rsvp.lk",
+        "logoUrl": "../images/logos/rsvp_logo.png",
+        "width": 300
       }
     ]
   }
