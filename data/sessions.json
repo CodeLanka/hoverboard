@@ -59,12 +59,14 @@
     "title": "Building your own voice Create a TTS voice on your computer",
     "description": "",
     "speakers": [
-      6
+      6,12
     ],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
-      "Android"
+      "TTS",
+      "NLP"
+      
     ]
     
   },
@@ -108,7 +110,9 @@
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
-      "General"
+      "General",
+      "NLP",
+      "TTS"
     ]
   },
   "124": {
