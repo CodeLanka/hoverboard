@@ -54,9 +54,15 @@
     "description": "Get your Tags",
     "image": "/images/backgrounds/registration.jpg"
   },
+  "141": {
+    "id": 141,
+    "title": "Registration ( Code Lab )",
+    "description": "Get your Tags",
+    "image": "/images/backgrounds/registration.jpg"
+  },
   "129": {
     "id": 129,
-    "title": "Building your own voice Create a TTS voice on your computer",
+    "title": "Building your own voice Create a TTS voice on your computer ( Code Lab )",
     "description": "",
     "speakers": [
       6,12
@@ -199,7 +205,7 @@
       },
   "103": {
     "id": 103,
-    "title": "Analytics for Firebase",
+    "title": "Analytics for Firebase ( Code Lab )",
     "description": "",
     "speakers": [
       5

@@ -4,13 +4,13 @@
     "tracks": [ {
         "title": "Conference hall"
     }, {
-        "title": "Workshops hall"
+        "title": "Code Lab"
     }],
     "timeslots": [{
         "startTime": "08:00",
         "endTime": "08:30",
         "sessions": [
-            [132]
+            [141]
         ]
     },  {
         "startTime": "8:30",

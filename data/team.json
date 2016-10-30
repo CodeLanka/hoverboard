@@ -68,7 +68,7 @@
       },
 	  {
         "name": "Tharaka Devinda",
-        "photoUrl": "https://lh3.googleusercontent.com/An2rvzuVhmkKAh9pRDyuQ6Afur2UDI3R42MTsXu_JpKy3t4mZlioIBgLX9RV0d077ctSPEPtvdikdQ=w1366-h613-rw",
+        "photoUrl": "/images/people/tharaka.jpg",
         "socials": [
           {
             "icon": "gplus",
@@ -173,6 +173,12 @@
       {
         "name": "Lakmal Niranga",
         "photoUrl": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/14492607_1292866734080715_3959610263298978503_n.jpg?oh=a09d5d29afef9930fcc4affd5a677341&oe=58D43819"
+       
+      },
+      {
+        "name": "Rushan Gajanayake",
+      
+        "photoUrl": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/1465182_10204333573438372_5641067794916873435_n.jpg?oh=3abd6a450d0533542740939437a2f4d3&oe=589A3B75"
        
       }
     ]
