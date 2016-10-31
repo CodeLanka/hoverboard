@@ -56,13 +56,13 @@
   },
   "141": {
     "id": 141,
-    "title": "Registration ( Code Lab )",
+    "title": "Registration ( Codelab )",
     "description": "Get your Tags",
     "image": "/images/backgrounds/registration.jpg"
   },
   "129": {
     "id": 129,
-    "title": "Building your own voice Create a TTS voice on your computer ( Code Lab )",
+    "title": "Building your own TTS voice ( Codelab )",
     "description": "",
     "speakers": [
       6,12
@@ -108,7 +108,7 @@
   },
   "125": {
     "id": 125,
-    "title": "Building your own voice Create a TTS voice on your computer",
+    "title": "Building your own TTS voice",
     "description": "",
     "speakers": [
       6,12
