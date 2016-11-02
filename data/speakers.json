@@ -93,14 +93,14 @@
     "4": {
         "id": 4,
         "featured": true,
-        "name": "Sameera Jayasoma",
-        "title": "Associate Director and Architect",
-        "company": "WSO2 Inc.",
-        "companyLogo": "/images/logos/wso2_logo.png",
+        "name": "Thisara Udayantha",
+        "title": "Associate Software Architect",
+        "company": "Pearson Inc.",
+        "companyLogo": "/images/logos/pearson_logo.png",
         
-        "photoUrl": "/images/people/sameera_jayasoma.jpg",
-        "shortBio": "Sameera is an Associate Director/Architect at WSO2. His primary focus is on WSO2 Carbon and WSO2 Web Services Application Server.",
-        "bio": "Sameera is an Associate Director/Architect at WSO2. His primary focus is on WSO2 Carbon and WSO2 Web Services Application Server. As a WSO2 intern in 2007, Sameera developed an Axiom version of Rhino's E4X implementation, which is used in the WSO2 Mashup Server. He has also provided technology consulting on customer engagements, including Quick Start Programs, Business Process Execution Language (BPEL), and cloud projects.Sameera has contributed to a number of Apache Software Foundation (ASF) projects, including Apache Axis2 and Axiom. He also was a co-developer of Apache Rampart2. During the 2007 Google Summer of Code, he contributed to the development of JAX-WS templates for the Apache Axis2/Java Codegen tool. Sameera holds a first class honors degree in Computer Science and Engineering from University of Moratuwa, Sri Lanka.",
+        "photoUrl": "/images/people/thisara_udayantha.jpg",
+        "shortBio": "Thisara is a tech enthusiast who is managing a team at Pearson on educational application development",
+        "bio": "Thisara is a tech enthusiast who is managing a team at Pearson on educational application development",
         "tags": [
             "ESB",
 			"Web"
